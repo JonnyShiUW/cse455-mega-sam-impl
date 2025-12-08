@@ -1,0 +1,12 @@
+[submodule "implementation/UniDepth"]
+	path = implementation/UniDepth
+	url = https://github.com/lpiccinelli-eth/UniDepth.git
+[submodule "implementation/RAFT"]
+	path = implementation/RAFT
+	url = https://github.com/princeton-vl/RAFT.git
+[submodule "implementation/DROID-SLAM"]
+	path = implementation/DROID-SLAM
+	url = https://github.com/princeton-vl/DROID-SLAM.git
+[submodule "implementation/mega-sam"]
+	path = implementation/mega-sam
+	url = https://github.com/mega-sam/mega-sam.git
